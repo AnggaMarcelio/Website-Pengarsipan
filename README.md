@@ -1,4 +1,4 @@
-# Website Pengarsipan Dokumen BSB
+# Website Pengarsipan Dokumen
 
 Selamat datang di repositori Website Pengarsipan Dokumen BSB. Aplikasi ini adalah sistem manajemen dokumen berbasis web yang dirancang untuk memudahkan proses pengarsipan, pencarian, dan pengelolaan dokumen secara digital.
 
@@ -52,7 +52,6 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
     -   Buka **phpMyAdmin** dari control panel XAMPP Anda (`http://localhost/phpmyadmin`).
     -   Buat database baru dengan nama `bsb_arc_db`.
     -   Impor file database `.sql` yang ada ke dalam database `bsb_arc_db`.
-    > **Catatan**: Anda perlu menyediakan file `bsb_arc_db.sql` agar orang lain dapat membuat struktur tabel yang sama.
 
 4.  **Konfigurasi Koneksi**
     -   File konfigurasi database terletak di `php/config.php`. Secara default, konfigurasi sudah disesuaikan untuk lingkungan XAMPP standar.
