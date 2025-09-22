@@ -1,7 +1,5 @@
 # Website Pengarsipan Dokumen BSB
 
-![Logo BSB](img/logo-bsb.png)
-
 Selamat datang di repositori Website Pengarsipan Dokumen BSB. Aplikasi ini adalah sistem manajemen dokumen berbasis web yang dirancang untuk memudahkan proses pengarsipan, pencarian, dan pengelolaan dokumen secara digital.
 
 ## 📜 Tentang Proyek
@@ -68,10 +66,4 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di lingkungan lokal A
 5.  **Jalankan Aplikasi**
     -   Buka browser Anda dan akses proyek melalui URL: `http://localhost/Website-Pengarsipan/login.php`
 
-## 🖼️ Screenshot (Contoh)
 
-_(Anda dapat menambahkan screenshot dari halaman login, dashboard admin, dashboard pengguna, dan halaman arsip di sini untuk memberikan gambaran visual tentang aplikasi Anda)._
-
----
-
-Dibuat dengan ❤️ untuk manajemen arsip yang lebih baik.
